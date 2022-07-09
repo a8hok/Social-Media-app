@@ -13,3 +13,12 @@
   --location: #EF5757;
   --schedule: #E1AE4A;
 }
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background: #f3f3f3;
+  padding: 1rem;
+}
