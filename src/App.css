@@ -22,3 +22,11 @@
   background: #f3f3f3;
   padding: 1rem;
 }
+
+.blur {
+  width: 20rem;
+  height: 15rem;
+  background: #a6ddf0;
+  position: absolute;
+  filter: blur(80px);
+}
